@@ -13,15 +13,12 @@
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"/>
-  </br>
-  <div align="center">
+  
+  
   <img alt="PHP" src="https://img.shields.io/badge/php-%234F5B93.svg?style=for-the-badge&logo=php&logoColor=white"/>
   <img alt="Ruby" src="https://img.shields.io/badge/ruby-red.svg?style=for-the-badge&logo=ruby&logoColor=white" />
-  </div>
+  
   </div>
   <br>
-  <div>
 
-    <!-- Hackthebox Part -->
-  </div>
   
