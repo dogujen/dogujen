@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hello, I'm Doğu. 
+<img src="https://komarev.com/ghpvc/?username=dogujen&style=flat-square">
+<li> 🔭 I’m currently learning ASM
+    <h1>
+    Stats of My Accounts && Languages That I Know:
+  </h1>
+  </br>
+  <div >
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=dogujen&theme=dark&hide_border=true"><div align="right" style="display: flex; justify-content: flex-end;">
+<div>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"/>
+  </br>
+  <div align="center">
+  <img alt="PHP" src="https://img.shields.io/badge/php-%234F5B93.svg?style=for-the-badge&logo=php&logoColor=white"/>
+  <img alt="Ruby" src="https://img.shields.io/badge/ruby-red.svg?style=for-the-badge&logo=ruby&logoColor=white" />
+  </div>
+  </div>
+  <br>
+  <div>
 
-<!--
-**dogujen/dogujen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <!-- Hackthebox Part -->
+  </div>
+  
