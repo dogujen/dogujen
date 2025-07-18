@@ -26,7 +26,7 @@
   <img alt="PHP" src="https://img.shields.io/badge/php-%234F5B93.svg?style=for-the-badge&logo=php&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   </div><br clear="left" />
-  <img align="left" height="480px" width="455x" src="https://htb-status.vercel.app/api/htb.js?id=2433453" width="420" />
+  <img align="left" width="45%" src="https://htb-status.vercel.app/api/htb.js?id=2433453" width="420" />
   <br>
 
   
