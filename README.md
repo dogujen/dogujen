@@ -8,7 +8,11 @@
   </h1>
   </br>
   <div >
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=dogujen&theme=dark&hide_border=true"><div align="right" style="display: flex; justify-content: flex-end;">
+
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=dogujen&theme=dark&hide_border=true">
+
+   <div align="right" style="display: flex; justify-content: flex-end;"> 
+
 <div>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -21,7 +25,8 @@
   <img alt="Ruby" src="https://img.shields.io/badge/ruby-red.svg?style=for-the-badge&logo=ruby&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/php-%234F5B93.svg?style=for-the-badge&logo=php&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  </div>
+  </div><br clear="left" />
+  <img align="left" height="480px" width="455x" src="https://htb-status.vercel.app/api/htb.js?id=2433453" width="420" />
   <br>
 
   
