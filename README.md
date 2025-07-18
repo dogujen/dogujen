@@ -1,6 +1,8 @@
 ## Hello, I'm Doğu. 
 <img src="https://komarev.com/ghpvc/?username=dogujen&style=flat-square">
-<li> 🔭 I’m currently learning ASM
+<li>I 💗 Computer Science</li>
+<li>🌍 18 y.o developer from Turkey.</li>
+<li> 🔭 I’m currently learning ASM</li>
     <h1>
     Stats of My Accounts && Languages That I Know:
   </h1>
