@@ -9,7 +9,7 @@
   </br>
   <div >
 
-<img align="left" width="45%" height="45%" src="https://github-readme-stats.vercel.app/api?username=dogujen&theme=dark&hide_border=true">
+<img align="left" width="45%" height="45%" src="https://github-readme-stats.vercel.app/api?username=dogujen&theme=merko&hide_border=true">
 
    <div align="right" style="display: flex; justify-content: flex-end;"> 
 
