@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=dogujen&style=flat-square">
 <li>I 💗 Computer Science</li>
 <li>🌍 18 y.o developer from Turkey.</li>
-<li> 🔭 I’m currently messing up with CTFs. [Pwngeddon](https://github.com/pwngeddon) </li>
+<li> 🔭 I’m currently messing up with CTFs.  </li> [Pwngeddon](https://github.com/pwngeddon)
     <h1>
     Stats of My Accounts && Languages That I Know:
   </h1>
